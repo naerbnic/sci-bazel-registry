@@ -1,0 +1,5 @@
+{
+  "type": "git_repository",
+  "remote": "https://github.com/naerbnic/rules_sci.git",
+  "commit": "main"
+}
