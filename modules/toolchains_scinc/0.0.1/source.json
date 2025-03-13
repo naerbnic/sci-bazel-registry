@@ -1,5 +1,5 @@
 {
   "type": "git_repository",
-  "remote": "https://github.com/naerbnic/rules_sci.git",
-  "commit": "main"
+  "remote": "https://github.com/naerbnic/toolchains_scinc.git",
+  "commit": "4ccfffcb0c88bec525ae8e0d9ccda533e3d7396d"
 }
